@@ -18,6 +18,11 @@ body {
   width: 60%;
   padding-bottom: 40px;
 }
+.centerText {
+  margin: 0 auto;
+  width: 60%;
+  padding-bottom: 40px;
+}
 
 #content {
   padding: 20px;
@@ -37,6 +42,10 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color:black
+}
+.changeColor{
+  color: white;
 }
 
 h3 {
